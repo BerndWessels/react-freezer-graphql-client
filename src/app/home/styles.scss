@@ -1,0 +1,6 @@
+.root {
+  background-color: red;
+  &.loading {
+    background-color: black;
+  }
+}
