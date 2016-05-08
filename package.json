@@ -1,6 +1,6 @@
 {
   "name": "react-freezer-graphql-client",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A react app using freezer and graphql without relay!",
   "main": "src/index.js",
   "scripts": {
@@ -39,7 +39,7 @@
     "babel-plugin-react-transform": "^2.0.0",
     "babel-preset-es2015": "^6.0.0",
     "babel-preset-react": "^6.0.0",
-    "babel-preset-stage-0": "^6.5.0",
+    "babel-preset-stage-0": "^6.0.0",
     "body-parser": "^1.0.0",
     "browser-sync": "^2.0.0",
     "browser-sync-webpack-plugin": "^1.0.0",

@@ -1,6 +1,6 @@
 # React / Freezer / GraphQL (without Relay!)/ Webpack
 
-# Current Version 0.1.0
+# Current Version 0.1.1
 
 # Overview
 
